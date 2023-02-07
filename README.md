@@ -13,3 +13,9 @@ Cosmetic Changes
 -Logo Fix
 -Fixed bugged letters and tilt color
 -Style System Fix
+
+Version 1.1.2 
+Cosmetic Changes
+-Arrangement of <p> and <li> of code.jsp
+System Changes
+-Connect Tomcat well to avoid host failure
