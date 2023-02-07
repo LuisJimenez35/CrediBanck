@@ -1,5 +1,4 @@
 # CrediBanck
-1er Project Analysis and design of systems
 System Credi Bank
 Control Versions:
 
