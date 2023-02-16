@@ -20,7 +20,7 @@ Cosmetic Changes
 System Changes
 -Connect Tomcat well to avoid host failure
 
-Version 1.1.2 
+Version 1.1.3 
 Cosmetic Changes
 -Added home page after login pass
 
