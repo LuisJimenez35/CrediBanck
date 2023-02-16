@@ -2,6 +2,9 @@
 Descrption Project:
 The objective of this project is to design, build and launch a virtual platform for clients of the CrediBanc(CB) entity. Which will facilitate the use of all the products and services that the bank has available.
 
+
+Project Start:
+
 Develop in Java using JSP and SQL Server
 
 System Credi Bank
